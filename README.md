@@ -1,4 +1,4 @@
-# PrinciplesOfComputerProgramming_16-17
+# Bachelor Course: Principles Of Computer Programming 2016-2017
 This repository contains the code associated with the practica of the Bachelor course Principles of Computer Programming at the KU Leuven, that was followed in the academic year 2016-2017. 
 
 This course was given in Dutch, so much of the code is written in it as well.
